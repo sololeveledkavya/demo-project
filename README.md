@@ -1,3 +1,4 @@
 # demo-project
 this is my first git repository.   
-Author: Kavya 
+Author: Kavya (hihi)
+hi
